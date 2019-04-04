@@ -1,6 +1,6 @@
 # Moje pierwsze repozytorium
 
-#Autorzy
+# Autorzy
 
 infoshare
 cdsakf
@@ -9,11 +9,13 @@ qwertyuopsjgldnbld
 jffkfkflfldlcmxvnmvnm
 asdasdasda
 
-##Opis rozszerzony
+## Opis rozszerzony
 
 asfdfefergrhthtrhj
 
-##Licencja
+## Licencja
 sdoajdjaskglk
 
 MIT
+
+## końcówka
