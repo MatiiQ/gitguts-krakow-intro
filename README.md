@@ -6,3 +6,8 @@ asdasdasda
 ##Opis rozszerzony
 
 asfdfefergrhthtrhj
+
+##Licencja
+sdoajdjaskglk
+
+MIT
